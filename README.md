@@ -1,1 +1,1 @@
-# BME590Finger
+This project is to design a no-touch finger tremor detector. The device will count the number of times a finger crosses a laser, and display this as a 4 bit number. The enclosure will include an Arduino, and block exposure to ambient light.
